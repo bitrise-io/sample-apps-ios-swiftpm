@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/lpusok/Develop/samples/sample-apps-xcode-swiftpm/sample swiftpm/sample-swiftpm.xcodeproj">
+      location = "self:">
    </FileRef>
 </Workspace>
