@@ -11,6 +11,15 @@
         }
       },
       {
+        "package": "Kingfisher",
+        "repositoryURL": "https://github.com/onevcat/Kingfisher",
+        "state": {
+          "branch": "xcode11",
+          "revision": "c5b13ae39d0a37babdb9e9b2ca1c7243ad110217",
+          "version": null
+        }
+      },
+      {
         "package": "Lottie",
         "repositoryURL": "https://github.com/airbnb/lottie-ios",
         "state": {
@@ -24,8 +33,8 @@
         "repositoryURL": "https://github.com/httpswift/swifter",
         "state": {
           "branch": null,
-          "revision": "57faa5da31c02e035e43e8189f7ae7e8fb7ddc68",
-          "version": "1.4.6"
+          "revision": "8b5afb48ae64d4f729f0489ddcfe09c62b9c3687",
+          "version": "1.4.7"
         }
       },
       {
@@ -34,7 +43,7 @@
         "state": {
           "branch": null,
           "revision": "2b6054efa051565954e1d2b9da831680026cd768",
-          "version": "4.3.0"
+          "version": "5.0.0"
         }
       }
     ]
